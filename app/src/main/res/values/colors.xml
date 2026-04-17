@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_accent">#A855F7</color>
+    <color name="brand_accent_glow">#C084FC</color>
+    <color name="brand_bg_dark">#0B0512</color>
+    <color name="brand_bg_light">#FAFAFE</color>
+    <color name="transparent">#00000000</color>
+</resources>
